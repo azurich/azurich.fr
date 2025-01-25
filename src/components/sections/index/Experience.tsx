@@ -24,13 +24,13 @@ export default function Experience() {
                         fullDescription={[
                             "Season World is a meticulously curated modpack designed to provide a diverse and immersive gaming experience. Each mod included in this pack has been selected to enhance various aspects of the game, from space exploration to expansive landscapes, improved travel systems, and practical survival tools. In addition to the mods, we have integrated resource packs and shaders to visually enhance your world.",
                         ]}
-                        cardImage="https://drive.google.com/file/d/1FFIWvuYPBtPFbZODZzZDat_Ba_-uHjtp/view"
+                        cardImage="https://r2.e-z.host/4ed8b442-31c9-4738-a919-7ff8dee725df/6mtmembk.webp"
                         cardDescription="Season World is a meticulously curated modpack designed to provide a diverse and immersive gaming experience. Each mod included in this pack has been selected to enhance various aspects of the game, from space exploration to expansive landscapes, improved travel systems, and practical survival tools. In addition to the mods, we have integrated resource packs and shaders to visually enhance your world."
                         media={[
-                            "https://drive.google.com/file/d/1ni-BZbe2FxRtNFHJC3a49rSv66yZQ6c0/view?usp=drive_link",
-                            "https://drive.google.com/file/d/1xoWWTYQAqVaQXqmGT9y7aiGUMp0R3KqR/view?usp=drive_link",
-                            "https://drive.google.com/file/d/1PakJ0KSkpjIyQArxmMPCxvNNc3dBdLZi/view?usp=drive_link",
-                            "https://drive.google.com/file/d/1nOPbvTEWiHyrTkuihlXt7OCqCDYHANAE/view?usp=drive_link",
+                            "https://r2.e-z.host/4ed8b442-31c9-4738-a919-7ff8dee725df/vrv2o4g9.webp",
+                            "https://r2.e-z.host/4ed8b442-31c9-4738-a919-7ff8dee725df/pu1z5f45.webp",
+                            "https://i.e-z.gg/h24u9sf7.webp",
+                            "https://i.e-z.gg/x275xpf2.webp",
                         ]}
                         myRole="Founder"
                         timeline="July 2024 - Present"
