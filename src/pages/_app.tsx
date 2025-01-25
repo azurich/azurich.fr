@@ -19,7 +19,7 @@ export default function App({ Component, pageProps }: AppProps) {
           description: "azurich personal site",
           images: [
             {
-              url: "https://r2.e-z.host/4ed8b442-31c9-4738-a919-7ff8dee725df/7tgqsqub.png",
+              url: "https://r2.e-z.host/4ed8b442-31c9-4738-a919-7ff8dee725df/rn3amtqj.webp",
               alt: "kurt",
             },
           ],
