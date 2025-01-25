@@ -24,7 +24,7 @@ export default function Experience() {
                         fullDescription={[
                             "Season World is a meticulously curated modpack designed to provide a diverse and immersive gaming experience. Each mod included in this pack has been selected to enhance various aspects of the game, from space exploration to expansive landscapes, improved travel systems, and practical survival tools. In addition to the mods, we have integrated resource packs and shaders to visually enhance your world.",
                         ]}
-                        cardImage="https://drive.google.com/file/d/1FFIWvuYPBtPFbZODZzZDat_Ba_-uHjtp/view?usp=drive_link"
+                        cardImage="https://drive.google.com/file/d/1FFIWvuYPBtPFbZODZzZDat_Ba_-uHjtp/view"
                         cardDescription="Season World is a meticulously curated modpack designed to provide a diverse and immersive gaming experience. Each mod included in this pack has been selected to enhance various aspects of the game, from space exploration to expansive landscapes, improved travel systems, and practical survival tools. In addition to the mods, we have integrated resource packs and shaders to visually enhance your world."
                         media={[
                             "https://drive.google.com/file/d/1ni-BZbe2FxRtNFHJC3a49rSv66yZQ6c0/view?usp=drive_link",
