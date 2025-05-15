@@ -23,13 +23,14 @@ export default function Experience() {
                         title="Mods Manager"
                         fullDescription={[
                             "Mods Manager is a lightweight and user-friendly application designed to simplify the management of Minecraft modpacks, particularly for CurseForge-based instances. It allows users to easily switch between modpack instances, remove outdated mods, and automatically install or update required mods with one click.",
-                            "Auto-detection of modpack instances",
-                            "One-click installation of selected mods from predefined sources",
-                            "Safe removal of outdated mods",
-                            "Automatic download of missing configuration files",
-                            "Version checker with update prompt",
-                            "Console log with real-time feedback on actions",
-                            "Whether you're a server administrator or a casual modded Minecraft player, Mods Manager saves time and eliminates repetitive tasks by automating your mod installation and cleanup routines.",
+                            "🔧 Features:",                            
+                            "- Auto-detection of modpack instances",
+                            "- One-click installation of selected mods from predefined sources",
+                            "- Safe removal of outdated mods",
+                            "- Automatic download of missing configuration files",
+                            "- Version checker with update prompt",
+                            "- Console log with real-time feedback on actions",
+                            " -Whether you're a server administrator or a casual modded Minecraft player, Mods Manager saves time and eliminates repetitive tasks by automating your mod installation and cleanup routines.",
                         ]}
                         cardImage="https://r2.e-z.host/4ed8b442-31c9-4738-a919-7ff8dee725df/4xs55mpc.webp"
                         cardDescription="Mods Manager is a lightweight and user-friendly application designed to simplify the management of Minecraft modpacks, particularly for CurseForge-based instances. It allows users to easily switch between modpack instances, remove outdated mods, and automatically install or update required mods with one click."
