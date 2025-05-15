@@ -80,7 +80,7 @@ export default function About() {
           />
           <AboutCard
             title="Toolbox"
-            description="Here are the various tools I regularly use and have developed a strong proficiency in over time, allowing me to work efficiently and confidently across different tasks and environments."
+            description="Here are the different tools that I use regularly and that I've learnt to use over time, enabling me to work efficiently and confidently on different tasks."
             tech={otherTech}
             direction="bottom"
             span={presence && presence.activities.length > 0 ? 1 : 2}
