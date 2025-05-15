@@ -9,7 +9,7 @@ export default function Footer() {
                     Made by aiden.gg 👑
                 </p>
                 <p className="text-center font-medium brightness-75 text-base">
-                    Last updated: Jan 26th, 2025
+                    Last updated: May 15th, 2025
                 </p>
             </footer>
         </>
