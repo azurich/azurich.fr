@@ -19,7 +19,7 @@ export default function Experience() {
                 </motion.h1>
                 <ul className={`flex flex-col pt-6 pb-1 gap-4 overflow-hidden`}>
                     <ExperienceCard
-                        url="https://github.com/azurich/Mods_Manager"
+                        url="https://modsmanager.azurich.fr/"
                         title="Mods Manager"
                         fullDescription={[
                             "Mods Manager is a lightweight and user-friendly application designed to simplify the management of Minecraft modpacks, particularly for CurseForge-based instances. It allows users to easily switch between modpack instances, remove outdated mods, and automatically install or update required mods with one click.",
@@ -37,11 +37,10 @@ export default function Experience() {
                         cardImage="https://r2.e-z.host/4ed8b442-31c9-4738-a919-7ff8dee725df/4xs55mpc.webp"
                         cardDescription="Mods Manager is a lightweight and user-friendly application designed to simplify the management of Minecraft modpacks, particularly for CurseForge-based instances. It allows users to easily switch between modpack instances, remove outdated mods, and automatically install or update required mods with one click."
                         media={[
-                            "https://r2.e-z.host/4ed8b442-31c9-4738-a919-7ff8dee725df/ds7rckua.webp",
-                            "https://r2.e-z.host/4ed8b442-31c9-4738-a919-7ff8dee725df/4by5hbex.webp",
+                            "https://r2.e-z.host/4ed8b442-31c9-4738-a919-7ff8dee725df/gqohuyhy.webp",
                         ]}
                         myRole="Founder"
-                        timeline="April 2025 - Present"
+                        timeline="April 2025 - Frozen"
                         delay={0.1}
                         gradient="bg-gradient-to-br"
                     />
